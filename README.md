@@ -27,7 +27,6 @@ Here are some of the projects I’ve been working on:
 
 ### 📫 Connect with me
 * **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Portfolio:** [Your Portfolio/Website Link Here]
 * **Email:** [Your Email Address Here]
 
 *Feel free to reach out for collaborations or just to chat about tech!*
