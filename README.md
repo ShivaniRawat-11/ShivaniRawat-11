@@ -26,7 +26,8 @@ Here are some of the projects I’ve been working on:
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Email:** [Your Email Address Here]
+* **LinkedIn:** https://www.linkedin.com/in/shivani-rawat-922b05295/
+* **Email:** shivanirawats456@gmail.com
+
 
 *Feel free to reach out for collaborations or just to chat about tech!*
